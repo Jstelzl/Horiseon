@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* color for entire webpage */
 body {
     background-color: #d9dcd6;
 }
-
+/* styling overall header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,12 +15,12 @@ body {
     color: #ffffff;
 }
 
-.div h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.div h1 .seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
